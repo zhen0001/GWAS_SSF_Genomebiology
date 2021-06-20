@@ -5,4 +5,4 @@
 3)  snpEff_annotation.sh is used to annotate the SNPs used in this GWAS
 
 The scripts will be updated for the whole paper as soon as possible. 
-
+Or you could contact the first author, zhiqiang chen. The email is Zhiqiang.chen@slu.se
